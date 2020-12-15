@@ -1,4 +1,5 @@
-# Interactive Frontend Mini Project
+# Code Institute
+## Interactive Frontend Mini Project
 
 This project shows how to take the JavaScript that I've learned throughout the *Interactive Frontend* module, and implement it in a real-world project - in this case a resume site.
 
@@ -8,5 +9,4 @@ This project shows how to take the JavaScript that I've learned throughout the *
 - The GitHub API
 
 - Sending Emails Using EmailJS
-
 
